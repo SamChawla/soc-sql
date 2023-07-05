@@ -1,0 +1,2 @@
+# soc-sql
+SQl Notes
